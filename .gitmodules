@@ -1,0 +1,27 @@
+[submodule "Bit_Manipulation_Engine"]
+	path = Bit_Manipulation_Engine
+	url = https://github.com/arpit6232/PES-Assignment-1
+[submodule "FIFO_Manipulation_Engine"]
+	path = FIFO_Manipulation_Engine
+	url = https://github.com/arpit6232/PES-Assignment-2
+[submodule "State_Machine_Traffic_Lights_KL25Z"]
+	path = State_Machine_Traffic_Lights_KL25Z
+	url = https://github.com/arpit6232/PES-Assignment-3
+[submodule "Capacitive_Sensor_Engine_KL25Z"]
+	path = Capacitive_Sensor_Engine_KL25Z
+	url = https://github.com/arpit6232/PES-Assignment-3
+[submodule "State_Machine_KL25Z"]
+	path = State_Machine_KL25Z
+	url = https://github.com/arpit6232/PES-Assignment-4
+[submodule "ISHA_256_OPTIMIZATON_KL25Z"]
+	path = ISHA_256_OPTIMIZATON_KL25Z
+	url = https://github.com/arpit6232/PES-Assignment-5
+[submodule "UART_COMMAND_LINE_INTERFACE_KL25Z"]
+	path = UART_COMMAND_LINE_INTERFACE_KL25Z
+	url = https://github.com/arpit6232/PES-Assignment-6
+[submodule "DMA_ENGINE_KL25Z"]
+	path = DMA_ENGINE_KL25Z
+	url = https://github.com/arpit6232/PES-Assignment-7
+[submodule "I2C_MMA8451Q_PROJECT_KL25Z"]
+	path = I2C_MMA8451Q_PROJECT_KL25Z
+	url = https://github.com/arpit6232/Sensor_Fusion_PES
